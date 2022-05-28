@@ -24,7 +24,10 @@ This project is based on face Recognition model which i used for tracking attend
    #### face detection
    #### training the model for face detection
    #### finally identifying with whom the given face matches
-<img>
+   
+    ![capturing video] (https://github.com/shailendra7033/FaceRecognition/blob/main/screenshot.png )
+    ![screenshot](https://user-images.githubusercontent.com/77047538/170823098-5d46fd07-72b9-4ffd-b02d-616e9ea5cd27.png)
+
         
    
       
